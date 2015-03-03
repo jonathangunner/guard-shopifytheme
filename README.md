@@ -14,7 +14,7 @@ Add this line to your application's Gemfile:
 
     gem 'guard-shopifytheme'
 
-And then execute:
+And then executor:
 
     $ bundle
 
